@@ -32,6 +32,8 @@ JavaScript (ES6+)
 
 CSS
 
+---
+
 📦 Installation
 
 Clone the repository:
@@ -49,8 +51,14 @@ Run the development server:
 
 npm run dev
 
+---
+
+
 🚀 Build for Production
 npm run build
+
+---
+
 
 📁 Project Structure
 src/
@@ -59,6 +67,9 @@ src/
  ├─ hooks/           # Custom hooks
  ├─ App.jsx          # Main app component
  └─ main.jsx         # Entry point
+
+---
+
 
 🎯 Purpose
 
@@ -74,10 +85,16 @@ Performance optimization using Vite
 
 Clean and scalable project structure
 
+---
+
+
 👤 Author
 
 Benziane Younes
 Frontend Developer
+
+---
+
 
 📄 License
 
